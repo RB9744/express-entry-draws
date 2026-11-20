@@ -40,6 +40,10 @@ df[df.draw_name.str.contains('French')].crs_cutoff.describe()
 
 We refresh the files after each round. If a round is missing, open an issue.
 
+## Citation
+
+This dataset has a DOI on Zenodo: [10.5281/zenodo.24407880](https://doi.org/10.5281/zenodo.24407880). Each new GitHub release is archived there as a new version.
+
 ## License
 
 Data: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Credit "CRS Calculators" with a link to https://crscalculators.com/. The source figures are public information published by Immigration, Refugees and Citizenship Canada.
