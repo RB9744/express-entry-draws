@@ -1,0 +1,27 @@
+{
+  "title": "Canada Express Entry draws, January 2015 to October 2026 (454 rounds)",
+  "upload_type": "dataset",
+  "description": "<p>Every Express Entry round of invitations that Immigration, Refugees and Citizenship Canada (IRCC) has held since the system started on 31 January 2015, up to round 453 on 28 October 2026. That makes 454 rows, because round 91 was held as two draws (91a and 91b) on 30 May 2018.</p><p>Each row has the draw number, date, program or category, the number of invitations issued, the CRS cut-off score, the tie-break rule and the date of the score distribution. The files are rebuilt from IRCC's own rounds feed (the JSON behind the Rounds of invitations page on canada.ca), so nothing is typed by hand. data/ircc_rounds_raw.json is an untouched copy of that feed and also holds the score distribution fields.</p><p>Made by the CRS Calculators team. The same data runs the draw history page at https://crscalculators.com/express-entry-draws/ and is refreshed after new rounds.</p><p>Licence: CC BY 4.0. Please credit CRS Calculators with a link to https://crscalculators.com/. The source figures are public information from IRCC.</p>",
+  "creators": [
+    {
+      "name": "CRS Calculators Team (crscalculators.com)"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "Express Entry",
+    "Canada immigration",
+    "CRS score",
+    "IRCC",
+    "rounds of invitations",
+    "open data"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://crscalculators.com/express-entry-draws/",
+      "relation": "isDocumentedBy",
+      "resource_type": "other"
+    }
+  ],
+  "version": "2026-10-28"
+}
